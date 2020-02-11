@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/com.beust.jcommander_1.66.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/org.testng_6.12.0.r201709030044.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/org.yaml.snakeyaml_1.17.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Testing/Software/Comman All Jar File/testng-6.9.10.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
